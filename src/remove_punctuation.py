@@ -16,7 +16,7 @@ print(clean_text)
 """
 Output yang diharapkan:
 
-Original Text: Hello! This text contains: commas (,), periods (.), questions marks (?), and others! @2023 #NLP
+Original Text: Hello! This text contains: commas (,), periods (.), questions marks (?), and others! @2025 #NLP
 
-Clean Text: Hello This text contains commas  periods  questions marks  and others 2023 NLP
+Clean Text: Hello This text contains commas  periods  questions marks  and others 2025 NLP
 """
