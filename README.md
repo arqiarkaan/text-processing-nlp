@@ -3,7 +3,6 @@
 ### 1. Buat Virtual Environment
 ```bash
 python -m venv .venv
-venv\Scripts\activate
 ```
 ```bash
 venv\Scripts\activate
